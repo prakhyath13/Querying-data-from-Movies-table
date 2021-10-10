@@ -4,3 +4,4 @@
 2.queries.sql file contains all the queries executed.
 
 # Queries related to retrieving attibutes
+![Screenshot (951)](https://user-images.githubusercontent.com/82436592/136684779-e9b91cff-88f1-4384-b421-55221d4c4732.png)
